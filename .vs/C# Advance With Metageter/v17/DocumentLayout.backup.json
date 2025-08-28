@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A0D78B65-D582-4C95-B479-D7A564407061}|touples .ReturnMultipleValues\\touplesReturnMultipleValues.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\touples .returnmultiplevalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0D78B65-D582-4C95-B479-D7A564407061}|touples .ReturnMultipleValues\\touplesReturnMultipleValues.csproj|solutionrelative:touples .returnmultiplevalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6600EC9F-9E51-452F-9D00-CE14BBFF23DD}|ValueTuples\\ValueTuples.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\valuetuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6600EC9F-9E51-452F-9D00-CE14BBFF23DD}|ValueTuples\\ValueTuples.csproj|solutionrelative:valuetuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6600EC9F-9E51-452F-9D00-CE14BBFF23DD}|ValueTuples\\ValueTuples.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\valuetuples\\valuetuples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6600EC9F-9E51-452F-9D00-CE14BBFF23DD}|ValueTuples\\ValueTuples.csproj|solutionrelative:valuetuples\\valuetuples.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6600EC9F-9E51-452F-9D00-CE14BBFF23DD}|ValueTuples\\ValueTuples.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\valuetuples\\facilitydistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6600EC9F-9E51-452F-9D00-CE14BBFF23DD}|ValueTuples\\ValueTuples.csproj|solutionrelative:valuetuples\\facilitydistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0D78B65-D582-4C95-B479-D7A564407061}|touples .ReturnMultipleValues\\touplesReturnMultipleValues.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\touples .returnmultiplevalues\\facilitydistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0D78B65-D582-4C95-B479-D7A564407061}|touples .ReturnMultipleValues\\touplesReturnMultipleValues.csproj|solutionrelative:touples .returnmultiplevalues\\facilitydistancecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0D78B65-D582-4C95-B479-D7A564407061}|touples .ReturnMultipleValues\\touplesReturnMultipleValues.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\touples .returnmultiplevalues\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0D78B65-D582-4C95-B479-D7A564407061}|touples .ReturnMultipleValues\\touplesReturnMultipleValues.csproj|solutionrelative:touples .returnmultiplevalues\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC55A77F-D0D3-4C2F-AD1D-BF655B495823}|Asynchronous Programming ExeptionPropreation\\Asynchronous Programming ExeptionPropreation.csproj|c:\\users\\bilal\\source\\repos\\c# advance with metageter\\asynchronous programming exeptionpropreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC55A77F-D0D3-4C2F-AD1D-BF655B495823}|Asynchronous Programming ExeptionPropreation\\Asynchronous Programming ExeptionPropreation.csproj|solutionrelative:asynchronous programming exeptionpropreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,102 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FacilityDistanceCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\ValueTuples\\FacilityDistanceCalculator.cs",
-              "RelativeDocumentMoniker": "ValueTuples\\FacilityDistanceCalculator.cs",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\ValueTuples\\FacilityDistanceCalculator.cs",
-              "RelativeToolTip": "ValueTuples\\FacilityDistanceCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:34:56.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValueTuples",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\ValueTuples\\ValueTuples.csproj",
-              "RelativeDocumentMoniker": "ValueTuples\\ValueTuples.csproj",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\ValueTuples\\ValueTuples.csproj",
-              "RelativeToolTip": "ValueTuples\\ValueTuples.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-28T00:29:02.83Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\ValueTuples\\Program.cs",
-              "RelativeDocumentMoniker": "ValueTuples\\Program.cs",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\ValueTuples\\Program.cs",
-              "RelativeToolTip": "ValueTuples\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:26:00.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\touples .ReturnMultipleValues\\Location.cs",
-              "RelativeDocumentMoniker": "touples .ReturnMultipleValues\\Location.cs",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\touples .ReturnMultipleValues\\Location.cs",
-              "RelativeToolTip": "touples .ReturnMultipleValues\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:19:18.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FacilityDistanceCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\touples .ReturnMultipleValues\\FacilityDistanceCalculator.cs",
-              "RelativeDocumentMoniker": "touples .ReturnMultipleValues\\FacilityDistanceCalculator.cs",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\touples .ReturnMultipleValues\\FacilityDistanceCalculator.cs",
-              "RelativeToolTip": "touples .ReturnMultipleValues\\FacilityDistanceCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:19:15.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\touples .ReturnMultipleValues\\Program.cs",
-              "RelativeDocumentMoniker": "touples .ReturnMultipleValues\\Program.cs",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\touples .ReturnMultipleValues\\Program.cs*",
-              "RelativeToolTip": "touples .ReturnMultipleValues\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:18:59.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\Asynchronous Programming ExeptionPropreation\\Program.cs",
-              "RelativeDocumentMoniker": "Asynchronous Programming ExeptionPropreation\\Program.cs",
-              "ToolTip": "C:\\Users\\bilal\\source\\repos\\C# Advance With Metageter\\Asynchronous Programming ExeptionPropreation\\Program.cs",
-              "RelativeToolTip": "Asynchronous Programming ExeptionPropreation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T00:08:36.431Z",
-              "EditorCaption": ""
             }
           ]
         }

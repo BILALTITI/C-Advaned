@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\bin\Debug\net8.0\Generic Delegate Type in C#.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\bin\Debug\net8.0\Generic Delegate Type in C#.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\bin\Debug\net8.0\Generic Delegate Type in C#.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\bin\Debug\net8.0\Generic Delegate Type in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\bin\Debug\net8.0\Generic Delegate Type in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\refint\Generic Delegate Type in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\Generic Delegate Type in C#.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Generic Delegate Type in C#\obj\Debug\net8.0\ref\Generic Delegate Type in C#.dll

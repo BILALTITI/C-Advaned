@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\bin\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\bin\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\bin\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\bin\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\bin\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\refint\Asynchronous ProgrammingLongRuningTask.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\Asynchronous ProgrammingLongRuningTask.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous ProgrammingLongRuningTask\obj\Debug\net8.0\ref\Asynchronous ProgrammingLongRuningTask.dll

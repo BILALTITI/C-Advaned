@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "touplesReturnMultipleValues/1.0.0": {
+        "runtime": {
+          "touplesReturnMultipleValues.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "touplesReturnMultipleValues/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\bin\Debug\net8.0\Extension Methods in C#.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\bin\Debug\net8.0\Extension Methods in C#.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\bin\Debug\net8.0\Extension Methods in C#.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\bin\Debug\net8.0\Extension Methods in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\bin\Debug\net8.0\Extension Methods in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\refint\Extension Methods in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\Extension Methods in C#.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Extension Methods in C#\obj\Debug\net8.0\ref\Extension Methods in C#.dll

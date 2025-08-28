@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ValueTuples/1.0.0": {
+        "dependencies": {
+          "touplesReturnMultipleValues": "1.0.0"
+        },
+        "runtime": {
+          "ValueTuples.dll": {}
+        }
+      },
+      "touplesReturnMultipleValues/1.0.0": {
+        "runtime": {
+          "touplesReturnMultipleValues.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tuple Type/1.0.0": {
+        "runtime": {
+          "Tuple Type.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValueTuples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "touplesReturnMultipleValues/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tuple Type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\bin\Debug\net8.0\Asynchronous Programming TaskContinuation.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\bin\Debug\net8.0\Asynchronous Programming TaskContinuation.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\bin\Debug\net8.0\Asynchronous Programming TaskContinuation.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\bin\Debug\net8.0\Asynchronous Programming TaskContinuation.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\bin\Debug\net8.0\Asynchronous Programming TaskContinuation.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\refint\Asynchronous Programming TaskContinuation.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\Asynchronous Programming TaskContinuation.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming TaskContinuation\obj\Debug\net8.0\ref\Asynchronous Programming TaskContinuation.dll

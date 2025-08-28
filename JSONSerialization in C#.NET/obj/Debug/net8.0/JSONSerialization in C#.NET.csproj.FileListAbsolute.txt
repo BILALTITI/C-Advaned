@@ -1,0 +1,18 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\bin\Debug\net8.0\JSONSerialization in C#.NET.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\bin\Debug\net8.0\JSONSerialization in C#.NET.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\bin\Debug\net8.0\JSONSerialization in C#.NET.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\bin\Debug\net8.0\JSONSerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\bin\Debug\net8.0\JSONSerialization in C#.NET.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSeri.7F624762.Up2Date
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\refint\JSONSerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\JSONSerialization in C#.NET.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\JSONSerialization in C#.NET\obj\Debug\net8.0\ref\JSONSerialization in C#.NET.dll

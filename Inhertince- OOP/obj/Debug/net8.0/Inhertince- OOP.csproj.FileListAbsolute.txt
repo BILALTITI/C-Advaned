@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\bin\Debug\net8.0\Inhertince- OOP.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\bin\Debug\net8.0\Inhertince- OOP.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\bin\Debug\net8.0\Inhertince- OOP.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\bin\Debug\net8.0\Inhertince- OOP.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\bin\Debug\net8.0\Inhertince- OOP.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\refint\Inhertince- OOP.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\Inhertince- OOP.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Inhertince- OOP\obj\Debug\net8.0\ref\Inhertince- OOP.dll

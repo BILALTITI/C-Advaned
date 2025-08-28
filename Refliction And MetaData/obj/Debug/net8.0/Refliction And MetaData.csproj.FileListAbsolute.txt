@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\bin\Debug\net8.0\Refliction And MetaData.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\bin\Debug\net8.0\Refliction And MetaData.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\bin\Debug\net8.0\Refliction And MetaData.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\bin\Debug\net8.0\Refliction And MetaData.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\bin\Debug\net8.0\Refliction And MetaData.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\refint\Refliction And MetaData.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\Refliction And MetaData.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Refliction And MetaData\obj\Debug\net8.0\ref\Refliction And MetaData.dll

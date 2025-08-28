@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\bin\Debug\net8.0\Sream And I--O-DisposialDesignPettern.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\bin\Debug\net8.0\Sream And I--O-DisposialDesignPettern.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\bin\Debug\net8.0\Sream And I--O-DisposialDesignPettern.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\bin\Debug\net8.0\Sream And I--O-DisposialDesignPettern.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\bin\Debug\net8.0\Sream And I--O-DisposialDesignPettern.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\refint\Sream And I--O-DisposialDesignPettern.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\Sream And I--O-DisposialDesignPettern.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Sream And I--O\obj\Debug\net8.0\ref\Sream And I--O-DisposialDesignPettern.dll

@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\bin\Debug\net8.0\Documentation in C#.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\bin\Debug\net8.0\Documentation in C#.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\bin\Debug\net8.0\Documentation in C#.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\bin\Debug\net8.0\Documentation in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\bin\Debug\net8.0\Documentation in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\refint\Documentation in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\Documentation in C#.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Documentation in C#\obj\Debug\net8.0\ref\Documentation in C#.dll

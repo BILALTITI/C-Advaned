@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\bin\Debug\net8.0\Concerancy (Threading).exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\bin\Debug\net8.0\Concerancy (Threading).deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\bin\Debug\net8.0\Concerancy (Threading).runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\bin\Debug\net8.0\Concerancy (Threading).dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\bin\Debug\net8.0\Concerancy (Threading).pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\refint\Concerancy (Threading).dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\Concerancy (Threading).genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Concerancy (Threading)\obj\Debug\net8.0\ref\Concerancy (Threading).dll

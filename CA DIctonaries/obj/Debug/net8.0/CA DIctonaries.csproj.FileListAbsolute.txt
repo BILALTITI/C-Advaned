@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\bin\Debug\net8.0\CA DIctonaries.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\bin\Debug\net8.0\CA DIctonaries.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\bin\Debug\net8.0\CA DIctonaries.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\bin\Debug\net8.0\CA DIctonaries.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\bin\Debug\net8.0\CA DIctonaries.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\refint\CA DIctonaries.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\CA DIctonaries.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\CA DIctonaries\obj\Debug\net8.0\ref\CA DIctonaries.dll

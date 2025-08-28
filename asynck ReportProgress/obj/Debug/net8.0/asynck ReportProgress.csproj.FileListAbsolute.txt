@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\bin\Debug\net8.0\asynck ReportProgress.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\bin\Debug\net8.0\asynck ReportProgress.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\bin\Debug\net8.0\asynck ReportProgress.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\bin\Debug\net8.0\asynck ReportProgress.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\bin\Debug\net8.0\asynck ReportProgress.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\refint\asynck ReportProgress.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\asynck ReportProgress.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\asynck ReportProgress\obj\Debug\net8.0\ref\asynck ReportProgress.dll

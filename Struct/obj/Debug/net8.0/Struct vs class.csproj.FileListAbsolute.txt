@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\bin\Debug\net8.0\Struct vs class.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\bin\Debug\net8.0\Struct vs class.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\bin\Debug\net8.0\Struct vs class.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\bin\Debug\net8.0\Struct vs class.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\bin\Debug\net8.0\Struct vs class.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\refint\Struct vs class.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\Struct vs class.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Struct\obj\Debug\net8.0\ref\Struct vs class.dll

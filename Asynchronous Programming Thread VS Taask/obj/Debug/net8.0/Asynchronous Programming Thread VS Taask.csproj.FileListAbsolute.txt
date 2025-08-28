@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\bin\Debug\net8.0\Asynchronous Programming Thread VS Taask.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\bin\Debug\net8.0\Asynchronous Programming Thread VS Taask.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\bin\Debug\net8.0\Asynchronous Programming Thread VS Taask.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\bin\Debug\net8.0\Asynchronous Programming Thread VS Taask.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\bin\Debug\net8.0\Asynchronous Programming Thread VS Taask.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\refint\Asynchronous Programming Thread VS Taask.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\Asynchronous Programming Thread VS Taask.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming Thread VS Taask\obj\Debug\net8.0\ref\Asynchronous Programming Thread VS Taask.dll

@@ -1,0 +1,14 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\bin\Debug\net8.0\C# Advance With Metageter.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\bin\Debug\net8.0\C# Advance With Metageter.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\bin\Debug\net8.0\C# Advance With Metageter.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\bin\Debug\net8.0\C# Advance With Metageter.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\bin\Debug\net8.0\C# Advance With Metageter.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\refint\C# Advance With Metageter.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\C# Advance With Metageter.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\C# Advance With Metageter\obj\Debug\net8.0\ref\C# Advance With Metageter.dll

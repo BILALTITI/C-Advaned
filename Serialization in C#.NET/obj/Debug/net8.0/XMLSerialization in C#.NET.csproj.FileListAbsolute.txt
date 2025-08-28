@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\bin\Debug\net8.0\XMLSerialization in C#.NET.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\bin\Debug\net8.0\XMLSerialization in C#.NET.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\bin\Debug\net8.0\XMLSerialization in C#.NET.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\bin\Debug\net8.0\XMLSerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\bin\Debug\net8.0\XMLSerialization in C#.NET.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\refint\XMLSerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\XMLSerialization in C#.NET.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Serialization in C#.NET\obj\Debug\net8.0\ref\XMLSerialization in C#.NET.dll

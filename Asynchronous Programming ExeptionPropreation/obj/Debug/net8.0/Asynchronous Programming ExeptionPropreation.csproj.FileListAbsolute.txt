@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\bin\Debug\net8.0\Asynchronous Programming ExeptionPropreation.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\bin\Debug\net8.0\Asynchronous Programming ExeptionPropreation.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\bin\Debug\net8.0\Asynchronous Programming ExeptionPropreation.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\bin\Debug\net8.0\Asynchronous Programming ExeptionPropreation.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\bin\Debug\net8.0\Asynchronous Programming ExeptionPropreation.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\refint\Asynchronous Programming ExeptionPropreation.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\Asynchronous Programming ExeptionPropreation.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Asynchronous Programming ExeptionPropreation\obj\Debug\net8.0\ref\Asynchronous Programming ExeptionPropreation.dll

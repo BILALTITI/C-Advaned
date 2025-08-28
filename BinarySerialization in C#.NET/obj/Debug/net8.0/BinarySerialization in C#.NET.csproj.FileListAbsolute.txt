@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\bin\Debug\net8.0\BinarySerialization in C#.NET.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\bin\Debug\net8.0\BinarySerialization in C#.NET.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\bin\Debug\net8.0\BinarySerialization in C#.NET.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\bin\Debug\net8.0\BinarySerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\bin\Debug\net8.0\BinarySerialization in C#.NET.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\refint\BinarySerialization in C#.NET.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\BinarySerialization in C#.NET.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\BinarySerialization in C#.NET\obj\Debug\net8.0\ref\BinarySerialization in C#.NET.dll

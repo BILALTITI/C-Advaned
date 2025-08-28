@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Struct vs class/1.0.0": {
+        "runtime": {
+          "Struct vs class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Struct vs class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

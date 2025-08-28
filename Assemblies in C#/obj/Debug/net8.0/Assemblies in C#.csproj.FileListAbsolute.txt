@@ -1,0 +1,24 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Extension Methods in C#.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Extension Methods in C#.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Extension Methods in C#.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Assemblies in C#.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Assemblies in C#.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Assemblies in C#.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Assemblies in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Assemblies in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\DemoWithAssembly.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Extension Methods in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\DemoWithAssembly.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\bin\Debug\net8.0\Extension Methods in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assembli.A8E9CED1.Up2Date
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\refint\Assemblies in C#.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\Assemblies in C#.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\Assemblies in C#\obj\Debug\net8.0\ref\Assemblies in C#.dll

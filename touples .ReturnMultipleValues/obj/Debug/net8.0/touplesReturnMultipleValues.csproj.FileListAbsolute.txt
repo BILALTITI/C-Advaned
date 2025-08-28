@@ -1,0 +1,15 @@
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\bin\Debug\net8.0\touplesReturnMultipleValues.exe
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\bin\Debug\net8.0\touplesReturnMultipleValues.deps.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\bin\Debug\net8.0\touplesReturnMultipleValues.runtimeconfig.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\bin\Debug\net8.0\touplesReturnMultipleValues.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\bin\Debug\net8.0\touplesReturnMultipleValues.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.AssemblyInfo.cs
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.sourcelink.json
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\refint\touplesReturnMultipleValues.dll
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.pdb
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\touplesReturnMultipleValues.genruntimeconfig.cache
+C:\Users\bilal\source\repos\C# Advance With Metageter\touples .ReturnMultipleValues\obj\Debug\net8.0\ref\touplesReturnMultipleValues.dll
